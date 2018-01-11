@@ -9,3 +9,5 @@ then
 http-server . -o 
 
 where . is your root directory
+
+or visit https://bit.ly/playflowz
