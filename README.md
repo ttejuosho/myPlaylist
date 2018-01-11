@@ -20,4 +20,4 @@ where . is your root directory
 # ![screenshot of player](https://github.com/ttejuosho/myPlaylist/blob/master/playlists/covers/screenshot.PNG)
 
 <br>
-![**Visit the website.**](https://bit.ly/playflowz)<br>
+**Visit the website.** (https://bit.ly/playflowz)<br>
