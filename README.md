@@ -1,4 +1,9 @@
-# ![FlowzArt logo](https://github.com/ttejuosho/myPlaylist/blob/master/playlists/covers/art.jpg) myCompilationPlaylist
+# ![FlowzArt logo](https://github.com/ttejuosho/myPlaylist/blob/master/playlists/covers/art.jpg) 
+
+
+<br>
+
+#myCompilationPlaylist
 
 A Web Browser Music Player
 to open using Node run
