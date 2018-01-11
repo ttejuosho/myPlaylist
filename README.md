@@ -3,7 +3,7 @@
 
 <br>
 
-#myCompilationPlaylist
+### myCompilationPlaylist
 
 A Web Browser Music Player
 to open using Node run
@@ -16,7 +16,7 @@ http-server . -o
 
 where . is your root directory
 
-![screenshot of player](https://github.com/ttejuosho/myPlaylist/blob/master/playlists/covers/screenshot.PNG)
+# ![screenshot of player](https://github.com/ttejuosho/myPlaylist/blob/master/playlists/covers/screenshot.PNG)
 
 <br>
-[**Visit the website.**](https://bit.ly/playflowz)<br>
+# ![**Visit the website.**](https://bit.ly/playflowz)<br>
