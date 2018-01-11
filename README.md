@@ -5,7 +5,8 @@
 
 ### myCompilationPlaylist
 
-A Web Browser Music Player
+## This App is an  in-Browser Music Player
+
 to open using Node run
 
 npm install http-server -g
@@ -19,4 +20,4 @@ where . is your root directory
 # ![screenshot of player](https://github.com/ttejuosho/myPlaylist/blob/master/playlists/covers/screenshot.PNG)
 
 <br>
-# ![**Visit the website.**](https://bit.ly/playflowz)<br>
+![**Visit the website.**](https://bit.ly/playflowz)<br>
